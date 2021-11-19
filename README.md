@@ -1,1 +1,1 @@
-![](PlayingGuitar.gif)
+PlayingGuitar.gif
